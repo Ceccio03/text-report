@@ -1,0 +1,4 @@
+Numero caratteri: 3022
+Numero di parole: 518
+Carattere con più occorrenze: L
+Parola con più occorrenze: undefined
